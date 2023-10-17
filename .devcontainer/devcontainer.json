@@ -1,0 +1,17 @@
+{
+    "name": "CosmWasm Auditing Environment",
+    
+    "build": { "dockerfile": "Dockerfile" },
+    "customizations": {
+        "vscode": {
+            "extensions": ["usernamehw.errorlens", "tamasfe.even-better-toml","tintinweb.vscode-inline-bookmarks","rust-lang.rust-analyzer" ,"dzhavat.bracket-pair-toggler", "vadimcn.vscode-lldb", "serayuzgur.crates", "donjayamanne.githistory"]
+        }
+
+        
+
+
+    },
+    
+    "overrideCommand": false
+  }
+  
